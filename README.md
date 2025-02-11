@@ -4,6 +4,10 @@
 Research and document the Tactics, Techniques, and Procedures (TTPs) of APTs. Collecting and analyzing malicious payloads from various APT groups, identifying features for AI-based detection methods, and developing AI models to accurately detect and attribute malicious activities.
 </p>
 
+<p>
+<strong>All content can be found in the releases according to the submission.</strong>
+</p>
+
 <h2>
 APT Groups
 </h2>
