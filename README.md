@@ -8,8 +8,6 @@ Research and document the Tactics, Techniques, and Procedures (TTPs) of APTs. Co
 APT Groups
 </h2>
 
-### Project 5 - APT Group Set
-
 | MITRE-ID | Name               | Country          | MITRE-ID | Name               | Country          |
 |----------|--------------------|------------------|----------|--------------------|------------------|
 | G0062    | TA459              | China            | G0107    | Whitefly           | Unknown          |
