@@ -1,5 +1,4 @@
 .
-├── contents.txt
 ├── Executable Malware
 │   ├── G0008
 │   │   ├── Carbanak
