@@ -1,4 +1,4 @@
-<h1 align="center">CIS6530: Project APT Group Set 5</h1>
+<h1 align="center">CIS*6530: Project APT Group Set 5</h1>
 
 <p>
 Research and document the Tactics, Techniques, and Procedures (TTPs) of APTs. Collecting and analyzing malicious payloads from various APT groups, identifying features for AI-based detection methods, and developing AI models to accurately detect and attribute malicious activities.
